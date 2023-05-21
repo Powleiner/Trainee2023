@@ -1,0 +1,13 @@
+ Git -> Divide o Codigo em varias versoes
+     -> Amplamente utilizada em desenvolvimento de software
+     -> Vantagens:
+		- Facilidade em usar o codigo;
+		- Evitar conflitos;
+		- Deixa tudo mais organizado;
+		- Essencial para o desenvolvimento de um software em grupo.
+
+GitHub -> Plataforma onde sao hospedados os codigos de varias versoes diferentes, utilizando git
+       -> Vantagens:
+		- Facilita os comandos git;
+		- Organizado e seguro;
+		- Deixa o codigo mais palpavel.	 
